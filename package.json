@@ -13,11 +13,14 @@
     "yisehak",
     "bogale"
   ],
+  "repository": "https://github.com/YiseBoge/yiseboge.github.io",
+  "license": "UNLICENSED",
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.9.0",
     "bootstrap": "4.3.1",
     "jquery": "3.4.1",
-    "jquery.easing": "^1.4.1"
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.15.0"
   },
   "devDependencies": {
     "browser-sync": "2.26.7",
